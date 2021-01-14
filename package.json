@@ -1,0 +1,25 @@
+{
+  "name": "snake-js",
+  "version": "1.0.0",
+  "description": "Snake using HTML/Javascript",
+  "jshintConfig": {
+    "esversion": 6,
+    "devel": true,
+    "asi": true,
+    "unused": false,
+    "curly": false,
+    "strict": "implied",
+    "browser": true,
+    "module": true
+  },
+  "files": [
+    "index.html",
+    "style.css",
+    "main.js",
+    "src/Snake.js",
+    "src/Block.js",
+    "src/Apple.js",
+    "src/letter-sketch.js",
+    "src/util.js"
+  ]
+}

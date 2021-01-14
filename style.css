@@ -1,0 +1,21 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #dddddd;
+}
+
+#board {
+    background-color: #2b2b2b;
+}
+
+#score-display {
+    font-size: 28px;
+}
+
+.reset-btn-cell {
+    width: 30%;
+}
+
+.score-display-cell {
+    width: 70%;
+}
